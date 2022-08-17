@@ -1,0 +1,45 @@
+.m-font-title-1 {
+    font-family: Notosans-bold;
+    font-size: 24px;
+    font-weight: 700;
+    color: #111;
+}
+
+.m-font-title-2 {
+    font-family: Notosans-semibold;
+    font-size: 14px;
+    color: #111;
+}
+
+.m-font-content {
+    font-family: Notosans-regular;
+    font-size: 13px;
+    color: #111;
+
+}
+
+.m-font-subtext {
+    font-family: Notosans-italic;
+    font-size: 13px;
+}
+
+
+@font-face {
+    font-family: Notosans-regular;
+    src: url("../assets/fonts/notosans-regular.2cb88a13.woff2");
+}
+
+@font-face {
+    font-family: Notosans-italic;
+    src: url("../assets/fonts/notosans-italic.1c1aaac9.woff2");
+}
+
+@font-face {
+    font-family: Notosans-semibold;
+    src: url("../assets/fonts/notosans-semibold.df3e6dc4.woff2");
+}
+
+@font-face {
+    font-family: Notosans-bold;
+    src: url("../assets/fonts/notosans-bold.3ede5aff.woff2");
+}
