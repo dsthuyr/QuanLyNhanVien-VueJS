@@ -1,5 +1,3 @@
-# misa-amis
-
 ## Project setup
 ```
 npm install
